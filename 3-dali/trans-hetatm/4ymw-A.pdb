@@ -1,0 +1,21 @@
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+HETATM 7052  N   HIS D 301      -2.810   0.674   9.180  1.00 85.81           N  
+HETATM 7053  CA  HIS D 301      -1.607   1.459   9.398  1.00 78.55           C  
+HETATM 7054  C   HIS D 301      -1.296   1.600  10.885  1.00 79.21           C  
+HETATM 7055  O   HIS D 301      -2.202   1.787  11.703  1.00 80.48           O  
+HETATM 7056  CB  HIS D 301      -1.756   2.837   8.760  1.00 84.43           C  
+HETATM 7057  CG  HIS D 301      -2.060   2.808   7.298  1.00 89.50           C  
+HETATM 7058  ND1 HIS D 301      -1.160   2.351   6.348  1.00 90.96           N  
+HETATM 7059  CD2 HIS D 301      -3.154   3.201   6.595  1.00 95.02           C  
+HETATM 7060  CE1 HIS D 301      -1.684   2.458   5.151  1.00 89.78           C  
+HETATM 7061  NE2 HIS D 301      -2.899   2.977   5.266  1.00 98.72           N  
+HETATM 7062  N   HIS C 301      -3.639  -3.747  10.914  1.00 80.68           N  
+HETATM 7063  CA  HIS C 301      -4.232  -4.833  10.152  1.00 83.17           C  
+HETATM 7064  C   HIS C 301      -5.714  -4.555   9.877  1.00 84.66           C  
+HETATM 7065  O   HIS C 301      -6.309  -3.653  10.465  1.00 73.05           O  
+HETATM 7066  CB  HIS C 301      -4.063  -6.161  10.899  1.00 97.17           C  
+HETATM 7067  CG  HIS C 301      -2.636  -6.530  11.194  1.00 86.90           C  
+HETATM 7068  ND1 HIS C 301      -2.295  -7.649  11.927  1.00 85.69           N  
+HETATM 7069  CD2 HIS C 301      -1.468  -5.949  10.832  1.00 88.66           C  
+HETATM 7070  CE1 HIS C 301      -0.978  -7.733  12.019  1.00 82.63           C  
+HETATM 7071  NE2 HIS C 301      -0.453  -6.715  11.362  1.00 88.27           N  
